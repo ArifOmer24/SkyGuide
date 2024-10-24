@@ -7,6 +7,23 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid HorizontalAlignment="Left" Height="278" Margin="242,116,0,0" VerticalAlignment="Top" Width="102" Background="#FF0033FF">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Height="23" FontSize="18" Margin="0,25,0,0"><Run Language="tr-tr" Text="+3&#x9;"/></TextBlock>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="278" Margin="28,116,0,0" VerticalAlignment="Top" Width="103" Background="#FF0033FF">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Today" VerticalAlignment="Top" Width="50" Height="23" FontSize="18" Margin="0,25,0,0"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="278" Margin="135,116,0,0" VerticalAlignment="Top" Width="102" Background="#FF0033FF">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" Height="23" FontSize="18" Margin="0,25,0,0"><Run Text="To"/><Run Language="tr-tr" Text="morrow"/></TextBlock>
+        </Grid>
+        <Grid HorizontalAlignment="Center" Height="278" Margin="0,116,0,0" VerticalAlignment="Top" Width="102" Background="#FF0033FF">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Height="23" FontSize="18" Margin="0,25,0,0"><Run Language="tr-tr" Text="+4"/></TextBlock>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="278" Margin="456,116,0,0" VerticalAlignment="Top" Width="103" Background="#FF0033FF">
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Height="23" FontSize="18" Margin="0,25,0,0"><Run Language="tr-tr" Text="+5"/></TextBlock>
+        </Grid>
+        <TextBox HorizontalAlignment="Left" Margin="650,38,0,0" TextWrapping="Wrap" Text="Search..." VerticalAlignment="Top" Width="140" RenderTransformOrigin="0.5,0.559" Height="22"/>
+        <ListBox HorizontalAlignment="Left" Height="331" Margin="650,65,0,0" VerticalAlignment="Top" Width="140" d:ItemsSource="{d:SampleData ItemCount=30}"/>
+        <Label Content="City Name" HorizontalAlignment="Left" Height="43" Margin="285,31,0,0" VerticalAlignment="Top" Width="115" FontSize="22"/>
     </Grid>
 </Window>

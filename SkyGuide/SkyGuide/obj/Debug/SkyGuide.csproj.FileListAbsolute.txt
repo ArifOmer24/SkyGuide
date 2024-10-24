@@ -1,0 +1,15 @@
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\bin\Debug\SkyGuide.exe.config
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\bin\Debug\SkyGuide.exe
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\bin\Debug\SkyGuide.pdb
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.csproj.AssemblyReference.cache
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\MainWindow.g.cs
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\App.g.cs
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide_MarkupCompile.cache
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide_MarkupCompile.lref
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\MainWindow.baml
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.g.resources
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.Properties.Resources.resources
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.csproj.GenerateResource.cache
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.csproj.CoreCompileInputs.cache
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.exe
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.pdb
