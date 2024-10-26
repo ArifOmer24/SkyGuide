@@ -33,11 +33,12 @@ namespace SkyGuide.Services
             {
                 forecasts.Add(new WeatherForecast
                 {
-                    Date = DateTime.Parse(item["dt_txt"].ToString()).ToString("dd MMM yyyy"),
+                    Date = DateTime.Parse(item["dt_txt"].ToString()).ToString("dd MMMMMMM yyyy HH:mm"),
                     Temperature = $"{item["main"]["temp"]}°C",
                     Condition = item["weather"][0]["description"].ToString()
                 });
             }
+
             return forecasts;
         }
 

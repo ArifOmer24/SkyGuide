@@ -5,7 +5,6 @@ C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.csproj
 C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\MainWindow.g.cs
 C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\App.g.cs
 C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide_MarkupCompile.cache
-C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide_MarkupCompile.lref
 C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\MainWindow.baml
 C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.g.resources
 C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.Properties.Resources.resources
@@ -30,3 +29,6 @@ C:\Users\Arif\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.pdb
 C:\Users\Arif\source\repos\SkyGuide\SkyGuide\SkyGuide\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Arif\source\repos\SkyGuide\SkyGuide\SkyGuide\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Arif\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.csproj.CopyComplete
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KOSE1\source\repos\SkyGuide\SkyGuide\SkyGuide\obj\Debug\SkyGuide.csproj.Up2Date
