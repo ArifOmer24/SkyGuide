@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\KOSE1\\source\\repos\\SkyGuide\\SkyGuide\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{320217FF-096D-47A6-8DDE-3D2EBEE8456E}|SkyGuide\\SkyGuide.csproj|c:\\users\\kose1\\source\\repos\\skyguide\\skyguide\\skyguide\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{320217FF-096D-47A6-8DDE-3D2EBEE8456E}|SkyGuide\\SkyGuide.csproj|solutionrelative:skyguide\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{320217FF-096D-47A6-8DDE-3D2EBEE8456E}|SkyGuide\\SkyGuide.csproj|c:\\users\\kose1\\source\\repos\\skyguide\\skyguide\\skyguide\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{320217FF-096D-47A6-8DDE-3D2EBEE8456E}|SkyGuide\\SkyGuide.csproj|solutionrelative:skyguide\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{320217FF-096D-47A6-8DDE-3D2EBEE8456E}|SkyGuide\\SkyGuide.csproj|C:\\Users\\KOSE1\\source\\repos\\SkyGuide\\SkyGuide\\skyguide\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320217FF-096D-47A6-8DDE-3D2EBEE8456E}|SkyGuide\\SkyGuide.csproj|solutionrelative:skyguide\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{320217FF-096D-47A6-8DDE-3D2EBEE8456E}|SkyGuide\\SkyGuide.csproj|c:\\users\\kose1\\source\\repos\\skyguide\\skyguide\\skyguide\\services\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{320217FF-096D-47A6-8DDE-3D2EBEE8456E}|SkyGuide\\SkyGuide.csproj|solutionrelative:skyguide\\services\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\KOSE1\\source\\repos\\SkyGuide\\SkyGuide\\SkyGuide\\Services\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "SkyGuide\\Services\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\KOSE1\\source\\repos\\SkyGuide\\SkyGuide\\SkyGuide\\Services\\WeatherForecast.cs",
-              "RelativeToolTip": "SkyGuide\\Services\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T07:22:01.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherService.cs",
-              "DocumentMoniker": "C:\\Users\\KOSE1\\source\\repos\\SkyGuide\\SkyGuide\\SkyGuide\\Services\\WeatherService.cs",
-              "RelativeDocumentMoniker": "SkyGuide\\Services\\WeatherService.cs",
-              "ToolTip": "C:\\Users\\KOSE1\\source\\repos\\SkyGuide\\SkyGuide\\SkyGuide\\Services\\WeatherService.cs",
-              "RelativeToolTip": "SkyGuide\\Services\\WeatherService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T07:21:59.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\KOSE1\\source\\repos\\SkyGuide\\SkyGuide\\SkyGuide\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SkyGuide\\MainWindow.xaml",
@@ -72,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KOSE1\\source\\repos\\SkyGuide\\SkyGuide\\SkyGuide\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SkyGuide\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\KOSE1\\source\\repos\\SkyGuide\\SkyGuide\\SkyGuide\\MainWindow.xaml.cs",
               "RelativeToolTip": "SkyGuide\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwCIAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T09:53:23.219Z",
               "EditorCaption": ""
@@ -95,7 +61,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

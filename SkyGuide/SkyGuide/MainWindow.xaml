@@ -3,33 +3,12 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Hava Durumu Uygulaması" Height="450" Width="800">
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="200"/>
-            <ColumnDefinition Width="43*"/>
-            <ColumnDefinition Width="77*"/>
-        </Grid.ColumnDefinitions>
-
-        <Label Content="Şehir Seçin:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" FontSize="16"/>
-
-        <ListBox Grid.Column="0" ItemsSource="{Binding Cities}" 
-                 SelectedItem="{Binding SelectedCity}" 
-                 DisplayMemberPath="Name" 
-                 Margin="10,10,10,10"/>
-
-        <StackPanel Grid.Column="1" Margin="10,10,10,10" Grid.ColumnSpan="2">
-            <TextBlock Text="5 Günlük Hava Tahmini" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
-            <ItemsControl ItemsSource="{Binding SelectedCityWeather}">
-                <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                        <StackPanel Orientation="Vertical" Margin="5">
-                            <TextBlock Text="{Binding Date}" FontWeight="Bold"/>
-                            <TextBlock Text="{Binding Temperature}" Foreground="Blue"/>
-                            <TextBlock Text="{Binding Condition}" Foreground="Gray"/>
-                            <Separator/>
-                        </StackPanel>
-                    </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
-        </StackPanel>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="CityTextBox" Width="200" Height="30" Margin="300,202,300,202" Grid.RowSpan="2" />
+        <Button x:Name="GetWeatherButton" Width="100" Height="30" Margin="455,202,245,202" Content="Get Weather" Click="GetWeatherButton_Click" Grid.RowSpan="2" />
+        <TextBlock x:Name="WeatherInfoTextBlock" Margin="0,10,20,68" TextWrapping="Wrap" />
     </Grid>
 </Window>
